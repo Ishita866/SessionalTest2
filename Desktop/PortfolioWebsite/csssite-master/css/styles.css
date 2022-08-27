@@ -1,0 +1,164 @@
+body
+{
+  margin:0;
+  text-align: center;
+  font-family: "Merriweather" , serif;
+}
+
+h1
+{
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento" , cursive;
+  color:pink;
+}
+
+h2
+{
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  color: pink;
+}
+
+h3
+{
+  font-family: "Montserrat", sans-serif;
+  color:purple;
+}
+
+
+
+a
+{
+  color:purple;
+}
+
+hr
+{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #d3d3d3;
+  border-width: 5px;
+  width: 5%;
+}
+
+.top-container
+{
+  background-color: purple;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container
+{
+
+}
+
+.footer-link
+{
+  color: pink;
+  text-decoration: none;
+  margin: auto 20px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+}
+
+.bottom-container
+{
+  background-color: purple;
+  line-height: 3;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 50px;
+}
+
+.profile
+{
+  margin: 50px auto;
+  width: 25%;
+  line-height: 2;
+}
+
+.skills
+{
+  margin: 50px auto;
+}
+
+
+.app
+{
+  text-decoration: underline;
+}
+
+.app-dev-img
+{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.bottom-cloud
+{
+  position: absolute;
+  left:25%;
+  bottom:300px;
+}
+
+
+.skill-row
+{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.top-cloud
+{
+  position: absolute;
+  right: 25%;
+  top:50px;
+
+}
+
+.skill-row
+{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.web-dev-img
+{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.copyright
+{
+  color: #EAF6F6;
+}
+
+.btn {
+  font-family: "Montserrat", sans-serif;
+  color: #FFFFFF !important;
+  font-size: 14px;
+  box-shadow: 1px 1px 1px #BBEEEE;
+  padding: 10px 25px;
+  -moz-border-radius: 12px;
+  -webkit-border-radius: 12px;
+  border-radius: 12px;
+  background: purple;
+  text-decoration: none;
+}
+.btn:hover {
+  color: ffffff !important;
+  background: #2BC4AD;
+}
+
+.contact-me
+{
+  line-height: 50px;
+}
